@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- 7/25 [Host Based Intrusion Detection System](https://github.com/Matt7546/threat-intel-dashboard)
+- 7/25 [Host Based Intrusion Detection System](https://github.com/Matt7546/threat-intel-dashboard) (In Progress)
   - Developed a Python-based threat intelligence dashboard that pulls live indicator data from open sources and maps findings to MITRE ATT&CK techniques. Integrated network log analysis and intrusion detection to identify and alert on potential threats in real time. The project demonstrates expertise in open-source threat feeds, automated intrusion detection, log correlation, and security monitoring.
  
 - 5/24 [AI Anomoly Detection](https://github.com/matt7546/LLMSupportedProgramRepair) 
